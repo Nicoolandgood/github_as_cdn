@@ -27,6 +27,7 @@ When the Github page will be deployed, go to `https://[yourusername].github.io/[
 
 Let's say we have this file structure in our repository: 
 ```
+[yourreponame]
     |_  index.html
     |_  my_style.css
     |_  my_script.js
